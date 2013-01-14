@@ -1,4 +1,6 @@
-#include "stdafx.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <Windows.h>
 #include "error.h"
 
 int ResultPrint(FILE * fp, char* fmt, ...){

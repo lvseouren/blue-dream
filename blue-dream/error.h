@@ -6,6 +6,4 @@
 
 int ResultPrint(FILE * fp, char* fmt, ...);
 
-
-
 #endif

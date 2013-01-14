@@ -75,6 +75,7 @@
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="blue-dream.h" />
     <ClInclude Include="data_store.h" />
     <ClInclude Include="error.h" />
     <ClInclude Include="sqlite3.h" />
